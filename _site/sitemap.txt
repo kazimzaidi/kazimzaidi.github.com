@@ -1,11 +1,11 @@
 
-http://username.github.com/index.html
-http://username.github.com/sitemap.txt
-http://username.github.com/atom.xml
-http://username.github.com/rss.xml
-http://username.github.com/archive.html
-http://username.github.com/pages.html
-http://username.github.com/categories.html
-http://username.github.com/tags.html
+http://kazimzaidi.com/index.html
+http://kazimzaidi.com/sitemap.txt
+http://kazimzaidi.com/atom.xml
+http://kazimzaidi.com/rss.xml
+http://kazimzaidi.com/archive.html
+http://kazimzaidi.com/pages.html
+http://kazimzaidi.com/categories.html
+http://kazimzaidi.com/tags.html
 
-http://username.github.com/lessons/2011/12/29/jekyll-introduction
+http://kazimzaidi.com/2013/03/12/hello
